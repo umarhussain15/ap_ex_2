@@ -1,0 +1,10 @@
+Name: Umar Hussain
+Class: BESE-4A
+REG. No.: 05038
+
+Github: github.com/umarhussain/ap_ex_2
+
+Solution:
+
+Class of operation which accept array list of integers 
+Then check in divison that 0 is not coming
